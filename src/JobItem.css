@@ -1,0 +1,18 @@
+/* JobItem.css */
+.job-item {
+  text-align: left;
+}
+
+.job-item td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.job-item td a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.job-item td a:hover {
+  text-decoration: underline;
+}
